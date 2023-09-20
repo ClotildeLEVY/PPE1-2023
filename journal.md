@@ -2,6 +2,3 @@
 ## Séance du 20 septembre 2023
 
 On fait :
-- 
--f 
--a 

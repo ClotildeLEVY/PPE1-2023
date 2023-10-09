@@ -13,3 +13,12 @@
 
 + les commandes : présentation de quelques commandes utiles, et de la syntaxe appropriée : _NOM [-options...] [arguments...]_
 + exercice pour se familiariser avec les commandes
+
+
+## Séance 2 _(27 septembre 2023)_
+
++ gérer notre espace de dépôt git directement depuis des commandes via le terminal, à la place de l'interface web => permet une syncronisation entre notre pc avec l'interface web
++ création des clés : cryptographie asymétrique (plus sécurisée) => correspond a une méthode créant 2 clés distinctes : une clé publique et une clé privée
++ clone de l'espace de dépôt du cours (_git clone_), désormais nous pourrons récupérer directement via le terminal les fichiers ajoutés au dépôt ainsi que vérifier si nous sommes bien à jour (_git status_)
+  - incompréhension : pourquoi _git status_ est en retard et nécessité de faire _git fetch_ pour être à jour sur les données ?
++ pour la prochaine séance : cloner notre espace de dépôt personnel

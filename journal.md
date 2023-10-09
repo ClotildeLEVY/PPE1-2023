@@ -24,3 +24,7 @@
 > incompréhension : pourquoi _git status_ est en retard et nécessité de faire _git fetch_ pour être à jour sur les données ?
     
 + pour la prochaine séance : cloner notre espace de dépôt personnel
+
+
+## Séance 3 _(4 octobre 2023)_
+

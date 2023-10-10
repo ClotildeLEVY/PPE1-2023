@@ -28,3 +28,6 @@
 
 ## Séance 3 _(4 octobre 2023)_
 
++ point sur le projet : constitution d'un groupe dans 2 semaines
++ exercices avec git : traitement des incohérences entre notre ordinateur et l'interface web
+

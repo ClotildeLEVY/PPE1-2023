@@ -30,4 +30,5 @@
 
 + point sur le projet : constitution d'un groupe dans 2 semaines
 + exercices avec git : traitement des incohérences entre notre ordinateur et l'interface web
+  - REMARQUE : "erreur" est normal, le but des exercices étant de comprendre les erreurs et de les résoudre 
 

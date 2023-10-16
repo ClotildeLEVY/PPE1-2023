@@ -30,5 +30,18 @@
 
 + point sur le projet : constitution d'un groupe dans 2 semaines
 + exercices avec git : traitement des incohérences entre notre ordinateur et l'interface web
-  - REMARQUE : "erreur" est normal, le but des exercices étant de comprendre les erreurs et de les résoudre 
+  - REMARQUE : "erreur" est normal, le but des exercices étant de comprendre les erreurs et de les résoudre
+ 
+
+## Séance 4 _(11 octobre 2023)_
+
++ correction des exercices des erreurs git
+  - REMARQUE : "git add" comme une "salle d'attente", il est possible de faire plusieurs add avant un commit
+  
+#### Éléments du cours :
++ les pipelines = façons dont les programmes vont communiquer les uns avec les autres
++ fonctionnement par défaut via 3 flux de données pour les faire communiquer : stdin (entrée standard), stdout (sortie standard) et stderr (sortie d'erreurs standard)
++ mais possibilité de quitter ce fonctionnement par défaut
+  
++ exercice sur les pipelines
 

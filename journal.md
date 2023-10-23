@@ -50,7 +50,7 @@
 
 ### Éléments du cours :
 + introduction aux instructions conditionnelles qui correspondent à des boucles, et suivent le même principe qu'en programmation (_for_ et _while_)
-+ ⚠️ à la syntaxe qui diverge (_par exemple pour la fin du bloc : "fi", d'autres divergences comme "do", "done", "echo", etc), mais le principe reste le même
++ ⚠️ à la syntaxe qui diverge (_par exemple pour la fin du bloc : "fi", d'autres divergences comme "do", "done", "echo", etc_), mais le principe reste le même
 
 #### Point projet :
 + j'ai pu finaliser la constitution de mon groupe (nous sommes 3 personnes venant des 3 campus différents)

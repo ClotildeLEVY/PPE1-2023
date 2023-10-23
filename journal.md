@@ -48,7 +48,7 @@
 ## Séance 5_(18 octobre 2023)_
 + pour l'exercice des pipelines, nous n'avons pas eu de script en guise de correction donc difficile de faire l'exercice de validation des arguments sachant que je ne comprends pas bien ce qui est attendu pour le script. Tentative de refaire ce qui nous a été montré lors du cours mais echec...
 
-### Éléments du cours :
+#### Éléments du cours :
 + introduction aux instructions conditionnelles qui correspondent à des boucles, et suivent le même principe qu'en programmation (_for_ et _while_)
 + ⚠️ à la syntaxe qui diverge (_par exemple pour la fin du bloc : "fi", d'autres divergences comme "do", "done", "echo", etc_), mais le principe reste le même
 

@@ -45,3 +45,22 @@
   
 + exercice sur les pipelines
 
+## Séance 5_(18 octobre 2023)_
++ pour l'exercice des pipelines, nous n'avons pas eu de script en guise de correction donc difficile de faire l'exercice de validation des arguments sachant que je ne comprends pas bien ce qui est attendu pour le script. Tentative de refaire ce qui nous a été montré lors du cours mais echec...
+
+### Éléments du cours :
++ introduction aux instructions conditionnelles qui correspondent à des boucles, et suivent le même principe qu'en programmation (_for_ et _while_)
++ ⚠️ à la syntaxe qui diverge (_par exemple pour la fin du bloc : "fi", d'autres divergences comme "do", "done", "echo", etc), mais le principe reste le même
+
+#### Point projet :
++ j'ai pu finaliser la constitution de mon groupe (nous sommes 3 personnes venant des 3 campus différents)
++ nous allons maintenant commencer à aborder l'aspect "collecte" du projet (=1e phase)
+  - brève introduction au langage de balisage html
+  - glossaire des codes HTTP (permet d'avoir le statut de la réponse)
+  - présentation de LYNX (=navigateur au sein du terminal, sans interface graphique, l'intérêt est qu'il va retirer tout le métatexte)
+  - installation de LYNX
+  - démonstration de LYNX (avec le site de plurital)
+  - _-dump_ permet de récupérer le contenu textuel d'une page
+  - option _-nolist_ pour retirer la liste des liens d'une page à l'affichage
+  - évocation de deux autres outils : _wget_ et _cURL_ (afin de récupérer des pages web sans passer par le navigateur), dans le cadre du cours nous utiliserons _cURL_
+

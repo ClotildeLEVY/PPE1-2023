@@ -45,7 +45,7 @@
   
 + exercice sur les pipelines
 
-## Séance 5_(18 octobre 2023)_
+## Séance 5 _(18 octobre 2023)_
 + pour l'exercice des pipelines, nous n'avons pas eu de script en guise de correction donc difficile de faire l'exercice de validation des arguments sachant que je ne comprends pas bien ce qui est attendu pour le script. Tentative de refaire ce qui nous a été montré lors du cours mais echec...
 
 #### Éléments du cours :

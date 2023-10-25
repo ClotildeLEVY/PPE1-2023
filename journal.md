@@ -64,3 +64,15 @@
   - option _-nolist_ pour retirer la liste des liens d'une page à l'affichage
   - évocation de deux autres outils : _wget_ et _cURL_ (afin de récupérer des pages web sans passer par le navigateur), dans le cadre du cours nous utiliserons _cURL_
 
+## Séance 6 _(25 octobre 2023)_
++ pas encore de correction pour les exercices sur les pipelines avec création de scripts
+
+#### Point projet :
+- nous avons choisi nos 3 langues : le français, l'anglais et l'espagnol
+- nous sommes maintenant en train de réfléchir à notre mot, nous nous orientons plutôt sur un mot polysémique
+- information : il y aura un nouveau journal de bord à faire pour le projet, mais il sera cette fois-ci collectif 
+
+#### Éléments du cours :
++ afin de se préparer au mieux au projet et de saisir ses enjeux, nous allons effectuer un mini-projet individuel
++ p
++ 

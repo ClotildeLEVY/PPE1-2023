@@ -74,5 +74,12 @@
 
 #### Éléments du cours :
 + afin de se préparer au mieux au projet et de saisir ses enjeux, nous allons effectuer un mini-projet individuel
-+ p
-+ 
++ application avec un exercice
+
+#### Exercice :
++ utilisation de la commande _chmod u+x_ afin d'autoriser uniquement le propriétaire à exécuter le fichier ;
++  importance de mettre le contrôle d'agument au tout début du script ;
++  problème : lorsque j'enlevais l'argument (=pas de fichier entré), cela m'inscrivait que le programme avait un argument alors que ce n'était pas le cas...je suis restée bloquée longtemps dessus alors qu'il s'agissait juste d'un oubli de guillemets sur ma variable au sein de la boucle conditionnelle... = problème réglé 
++  utilisation d'un compteur pour afficher le numéro de ligne avant chaque URL
++  pour l'exercice 2 utilisation de curl pour récupérer les codes de vérifications des URL : _curl -I <url>_ "-I" va permettre de récupérer les informations d'en-tête uniquement
++  

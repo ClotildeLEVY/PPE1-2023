@@ -82,4 +82,6 @@
 +  problème : lorsque j'enlevais l'argument (=pas de fichier entré), cela m'inscrivait que le programme avait un argument alors que ce n'était pas le cas...je suis restée bloquée longtemps dessus alors qu'il s'agissait juste d'un oubli de guillemets sur ma variable au sein de la boucle conditionnelle... = problème réglé 
 +  utilisation d'un compteur pour afficher le numéro de ligne avant chaque URL
 +  pour l'exercice 2 utilisation de curl pour récupérer les codes de vérifications des URL : _curl -I <url>_ "-I" va permettre de récupérer les informations d'en-tête uniquement
-+  curl -w "%{http_code}\n" 
++  curl -w "%{http_code}\n" pour récupérer code http
++  je n'arrive pas à faire fonctionner mon script avec curl...
++  pour récupérer les encodages faire fonction grep

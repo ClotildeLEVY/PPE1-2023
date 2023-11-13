@@ -94,5 +94,7 @@
 #### Éléments du cours :
 + csv pour manipuler les données, format html pour un rendu plus esthétique, abandon du côté "pratique" pour afficher le résultat final
 + exercices supplémentaires à rendre
++ idée pour l'exercice 3 : créer un fichier intermédiaire qui va contenir un mot par ligne du fichier _candide.txt_, puis faire la commande paste avec ce nouveau fichier pour obtenir le résultat souhaité
+
 
 

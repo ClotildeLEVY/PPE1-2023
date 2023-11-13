@@ -85,3 +85,14 @@
 +  curl -w "%{http_code}\n" pour récupérer code http
 +  je n'arrive pas à faire fonctionner mon script avec curl...
 +  pour récupérer les encodages faire fonction grep
+
+  
+## Séance 7 _(8 novembre 2023)_
++ modification du tag de l'exercice de la semaine dernière puisque erreur
++ correction de l'exercice de la semaine dernière
+
+#### Éléments du cours :
++ csv pour manipuler les données, format html pour un rendu plus esthétique, abandon du côté "pratique" pour afficher le résultat final
++ exercices supplémentaires à rendre
+
+

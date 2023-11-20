@@ -97,6 +97,11 @@
 + idée pour l'exercice 3 : créer un fichier intermédiaire qui va contenir un mot par ligne du fichier _candide.txt_, puis faire la commande paste avec ce nouveau fichier pour obtenir le résultat souhaité
 + pour l'exercice de transformation du fichier csv en html j'ai généré mon fichier csv _./programmes/miniprojet.sh ./urls/fr.txt > URL.csv_ mais je ne vois pas comment on peut automatiser la création du fichier en html. Je peux écrire chacune des lignes manuellement mais pour le faire dans un script...je n'y arrive pas...
 
+## Séance 8 _(15 novembre 2023)_
++ correction exercice
++ présentation html css - bulma
++ exercice pour la prochaine séance :
+  - problème quand j'ai ajouté bulma sur mon html, au niveau de ma liste numérotée les numéros ont disparus. Je ne comprends pas pourquoi donc je les ai rajoutés à la main... 
 
 
 

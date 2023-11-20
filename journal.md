@@ -101,7 +101,8 @@
 + correction exercice
 + présentation html css - bulma
 + exercice pour la prochaine séance :
-  - problème quand j'ai ajouté bulma sur mon html, au niveau de ma liste numérotée les numéros ont disparus. Je ne comprends pas pourquoi donc je les ai rajoutés à la main... 
+  - problème quand j'ai ajouté bulma sur mon html, au niveau de ma liste numérotée les numéros ont disparus. Je ne comprends pas pourquoi donc je les ai rajoutés à la main...
+  - pas réussi/compris à faire les manipulations avec github _(absence semaine dernière)_
 
 
 
